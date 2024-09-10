@@ -7,7 +7,7 @@
         <h1 class="text-center mb-4">Daftar Donatur</h1>
         <div class="row">
             <div class="col-12">
-                @if ($donaturs->isEmpty())
+                @if ( empty($donaturs) )
                     <p class="text-center">Belum ada donatur.</p>
                 @else
                     <div class="container-xxl">

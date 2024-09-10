@@ -16,7 +16,7 @@ class ListDonatur extends Seeder
     public function run(): void
     {
         Donatur::create([
-            'nama' => 'Ghazian Tza',
+            'nama' => 'rahasia',
             'pesan' => 'Ini adalah contoh pesan!',
             'total_donasi' => 100000,
             'tipe_bayar' => 'Dana',

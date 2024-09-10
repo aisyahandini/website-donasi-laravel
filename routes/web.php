@@ -7,7 +7,9 @@ use App\Http\Middleware\cekAdmin;
 use App\Http\Middleware\cekLogin;
 
 Route::get('/', function () {
-    return view('index');
+    return view('donaturs.index', [
+        "donaturs" => []
+    ]);
 });
 
 Route::get('/donasi', [DonaturController::class, 'donasi']);

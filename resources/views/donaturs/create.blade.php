@@ -79,6 +79,39 @@
                             </span>
                         </label>
                     </div>
+                    <div class="col-sm">
+                        <label>
+                            <input class="radio-input" type="radio" name="tipe_bayar" value="bni"
+                                required />
+                            <span class="radio-tile">
+                                <span class="radio-icon">
+                                    <img src="/images/pembayaran/bni.jpg" alt="bni" />
+                                </span>
+                            </span>
+                        </label>
+                    </div>
+                    <div class="col-sm">
+                        <label>
+                            <input class="radio-input" type="radio" name="tipe_bayar" value="bri"
+                                required />
+                            <span class="radio-tile">
+                                <span class="radio-icon">
+                                    <img src="/images/pembayaran/bri.jpg" alt="bri" />
+                                </span>
+                            </span>
+                        </label>
+                    </div>
+                    <div class="col-sm">
+                        <label>
+                            <input class="radio-input" type="radio" name="tipe_bayar" value="ovo"
+                                required />
+                            <span class="radio-tile">
+                                <span class="radio-icon">
+                                    <img src="/images/pembayaran/ovo.jpg" alt="ovo" />
+                                </span>
+                            </span>
+                        </label>
+                    </div>
                 </div>
 
                 <button type="submit"><span>Kirim</span></button>

@@ -13,10 +13,13 @@ class DonaturController extends Controller
 {
     public function index(): View
     {
-        // $donaturs = Donatur::latest()->paginate(10);
-        $donaturs = Donatur::latest()->get();
+        // Menggunakan paginate untuk mengatur tampilan data dengan pagination
+        $donaturs = Donatur::latest()->paginate(10);
+
+        // Pastikan nama variabel konsisten dengan yang digunakan dalam compact()
         return view('donaturs.index', compact('donaturs'));
     }
+
 
     public function tampilDonatur(): View
     {
@@ -36,12 +39,13 @@ class DonaturController extends Controller
     public function donasi(): View
     {
         $donaturs = Donatur::latest()->get();
-
+    
         $totalTerkumpul = $donaturs->sum('total_donasi');
         $totalOrang = $donaturs->count();
-
+    
         return view('donasi', compact('totalTerkumpul', 'totalOrang'));
     }
+    
 
     // ==== AWAL SIMPAN DATA ====
     public function store(Request $request): RedirectResponse

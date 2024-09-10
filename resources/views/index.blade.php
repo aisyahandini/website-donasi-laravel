@@ -1,5 +1,5 @@
 @extends('layouts.header')
-@section('title', 'UNP Berbagi')
+@section('title', 'Donasi Kita')
 {{-- TAMPILAN HOME --}}
 
 @section('content')
@@ -14,10 +14,10 @@
 
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img class="d-block w-100" src="/images/index/header-1.png" alt="Gambar1" />
+                <img class="d-block w-100" src="/images/index/gempa.jpg" alt="Gambar1" />
             </div>
             <div class="carousel-item">
-                <img class="d-block w-100" src="/images/index/header-2.png" alt="Gambar2" />
+                <img class="d-block w-100" src="/images/index/kebakaran.jpg" alt="Gambar2" />
             </div>
             <div class="carousel-item">
                 <img class="d-block w-100" src="/images/index/header-3.png" alt="Gambar3" />
