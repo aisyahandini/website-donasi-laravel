@@ -15,7 +15,6 @@ Website ini adalah platform donasi yang dikembangkan menggunakan Laravel 11. Pro
 
 -   [Fitur-Fitur](#fitur)
 -   [Tools yang Digunakan](#tools)
--   [Screnshoot](#screenshot)
 -   [Instalasi](#instalasi)
 -   [Menjalankan Aplikasi](#jalankan)
 -   [Konfigurasi Gambar](#konfigurasi)
@@ -49,17 +48,6 @@ Website ini adalah platform donasi yang dikembangkan menggunakan Laravel 11. Pro
 
 ## <a id="screenshot"></a>【 Screenshot 】
 
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/d4a835c9-eb6c-42c8-b9c0-6466bc2f015f"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/9da4485b-add0-44ee-9d33-5ac8d0800cf3"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/703af648-1ff5-4650-aa32-df8ced536d32"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/075fdca2-b0a8-469a-bffb-d7982d3598d0"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/6e72334d-b9f7-4697-81e1-bb8e5c287f0d"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/0403ef41-0a9b-4898-bdff-bc0971d5e62e"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/0ce77e4a-2e51-4411-8561-322b931738ec"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/03bc56b0-93f4-466e-889d-3bffcaaa0923"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/18180e96-1e81-4b89-957a-69083b489135"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/0dccca7d-ed55-47a2-87f6-43f3fd4a9e6c"/>
-<img height="400" src="https://github.com/SirGhazian/website-donasi-laravel/assets/142916107/a3ecd41c-ef5d-426b-bec3-2786a3746628"/>
 
 <!------------>
 </br>
@@ -156,8 +144,4 @@ Gambar-gambar tertentu diambil dari Google Images dan merupakan hak cipta dari p
 
 ## <a id="about"></a>【 About and Help 】
 
-Untuk bantuan dan pertanyaan, silahkan hubungi sosial media saya:
-<img align="right" width="100" src="https://github.com/SirGhazian/praktikum-struktur-data-UNP/assets/142916107/b140fe43-3a57-4295-8493-79d929a5e3b0">
 
--   [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ghazian_tza)
--   [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UCIp_064wQ8RqNSEy1asx_4w)
